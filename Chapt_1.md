@@ -42,4 +42,3 @@
 * 화용적 결함(deficit)은 언어발달 장애, 자폐증, 학습장애, 뇌 좌/우반구 손상, 치매, 조현증상 등에서 같이 발견된다.
 * 신경 화용론은 최근 등장한 분야로 뇌와 화용론과의 관계를 연구한다. 이 연구분야에서는 주로 임상장애와 뇌병리적 측면이 화용적 능력에 미치는 현상에 주안점을 둔다. 이들 연구의 상당부분은 실험 화용론과 겹친다.
 * 언어간 화용론(interlanguage pragmatics)은 화용론과 이차언어 습득간의 관계양상을 연구한다. 즉, 비-모국어 화자가 이차언어의 화용적 특성을 이해하고 발달시킬 수 있는지에 관심을 둔다. -> paragmatic awareness, pragmatic transfer, delvelopment of pragmatic competence, speech act production and comprehension, 이차언어 문법과 화용론 사이의 관계
-test
