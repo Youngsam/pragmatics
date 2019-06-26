@@ -28,7 +28,25 @@ by Harry Bunt
   * Deductive inference
   * Inductive inference
   * Abductive inference
+* 연역추론은 주어진 전제와 사실들을 통해 새로운 판단을 논리적으로 도출하는 방식의 판단을 말한다.
+  * 까마귀에는 '검다'는 의미가 있다 & 대상의 이름은 그 속성을 반영한다 => 까마귀는 모두 검은색이다
 * 귀납추론은 경험 데이터를 일반화하는 방식의 추론을 말한다.
-  * 까마귀 관찰 => 까마귀는 모두 까맣다.
+  * 까마귀 관찰 => 까마귀는 모두 검은색이다
 * 귀추는 관찰에 근거해 가설들을 만들고 가장 그럴듯한 가설을 선택하는 방식의 추론을 가리킨다.
-  * "도로가 젖었다"(관찰) & "비가 내리면 도로가 젖는다"(지식) => "비가 내렸었다"(판단)
+  * "도로가 젖었다"(관찰) & "비가 내리면 도로가 젖는다"(지식) => "비가 내렸었다"(귀추적 판단)
+* 연역추론은 과학에서는 널리 쓰이나 일상적 추론에서는 잘 쓰이지 않는다. 반면에 귀납과 귀추는 우리가 일상적으로 쓰는 직관적 방식의 추론이다.
+* 귀납은 세계에 대한 모델을 구성할 때 특히 많이 쓰이고, 귀추는 관찰의 해석에 대해 중요하게 쓰인다. 특히 귀추적 판단은 대화상황의 해석에서 중요하다.
+* 여기서 떠오르는 중요한 문제는 그 해석들 중 어떤 해석이 다른 해석보다 어떻게 선호되는지를 밝히는 것이다.
+  * wet_street(O) <= raining(P1) or pipe_burst(P2)
+* Weighted abduction (Stickel, 1988)
+  * 짧은 증명은 긴 증명보다 비용이 더 적다 => 적은 비용의 증명이 보다 그럴듯한(plausible) 설명이다
+  * 'Interpretation as abduction' (Hobbs, 1990b; Hobbs et al., 1993)
+* 예제 (Hobbs et al., 1993)
+  <br/>(2) The Boston called
+  * 이해되어야 할 요소들
+    * 정관사 'the'
+    * 'Boston office'에서 'Boston'과 'office'의 관계
+    * 'office'와 'making a phone call'의 환유적 관계
+  * 지식기반을 이용한 해석
+    <br/>(3) boston'(x) EXT office'(y) EXT NN(y, x)
+    <br/>(4) office'(B1), located-in(B1, B), boston'(B)
