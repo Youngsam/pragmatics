@@ -1,4 +1,4 @@
-# Chapter 17. Computational Pragmatics 
+# Chapter 17. Computational Pragmatics
 by Harry Bunt
 
 ## 17.1 General and Computational Pragmatics
@@ -43,6 +43,7 @@ by Harry Bunt
   * 'Interpretation as abduction' (Hobbs, 1990b; Hobbs et al., 1993)
 * 예제 (Hobbs et al., 1993)
   > (2) The Boston office called
+
   * 이해되어야 할 요소들
     * 정관사 'the'
     * 'Boston office'에서 'Boston'과 'office'의 관계
@@ -59,11 +60,64 @@ by Harry Bunt
   * 추론을 위한 계산 알고리즘
   * 화용적 속성이 주석된 말뭉치 자료
   * 지식과 맥락에 대한 계산적 표현체계
-  
+
 ## 17.3 Language as Action in Context
 ### 17.3.1 Speech acts and dialogue acts
 * 계산 화용론에서 '대화행위'는 행위의 수행으로서의 언어사용을 모델링한다. 이것은 의사소통 행위를 모형화하고자 하는 경험기반 접근법을 취한다.(ISO 24617-2:2012)
 * 대화행위 이론은 '정보-상태 갱신' 혹은 '맥락-변화' 접근방식을 취한다. 이 접근법은 대화 참여자들의 정보상태에 갱신작용을 함으로써 소통행위의 의도된 의미를 밝히고자 한다.
 * "Do you know what time it is?"
- * 대화행위의 두 주요 요소: semantic content, communicative function
- * 대화행위의 소통적 기능은 위 예제의 질문이 '질문'의 기능을 하는지 아니면 '힐난'의 기능을 위한 것인지를 구분해준다. 만일 전자라면, 대화의 의미적 내용을 이용해 청자의 정보상태를 질문자가 현재시간을 모르며 그것을 알기 원한다는 정보로 갱신하게 된다. 반면 후자라면, 질문자는 현재 시간을 알고 있으며 그 정보를 요구하는 것이 아니라는 정보를 정보상태에 입력하게 된다.
+  * 대화행위의 두 주요 요소: semantic content, communicative function
+  * 대화행위의 소통적 기능은 위 예제의 질문이 '질문'의 기능을 하는지 아니면 '힐난'의 기능을 위한 것인지를 구분해준다. 만일 전자라면, 대화의 의미적 내용을 이용해 청자의 정보상태를 질문자가 현재시간을 모르며 그것을 알기 원한다는 정보로 갱신하게 된다. 반면 후자라면, 질문자는 현재 시간을 알고 있으며 그 정보를 요구하는 것이 아니라는 정보를 정보상태에 입력하게 된다.
+* 화행이론과 대화행위 이론의 차이점
+  1. 대화행위는 구어행위 뿐만 아니라 비-구어적, multi-modal 행위를 다룬다.
+  2. 화행이론은 모든 발화가 하나의 화행을 담는다고 가정하지만, 대화행위 이론은 발화가 다기능적이라고 본다.
+  3. 대화행위는 대화 참여자의 정보상태에 대해 갱신작용에 의한 계산적 의미론을 갖는다.
+  4. 대화행위는 의미적, 화용론적 관계를 갖는 다른 대화행위에 의존적이며, 의미적으로 고립되어 있지 않다.
+### 17.3.2 Dialogue segmentation
+* 구어 대화는 복수의 'turn'들도 분절화된다. 그리고 한 '턴'은 더 작게 분절화될 수 있다.
+* 예제 (8)
+  > A: Yes! Come tomorrow. Go to the church. Bill will be there. OK?
+  <br/>B: The church, OK.
+
+  * 5 functions in A: (1) Feedback giving, (2) Request, (3) Request, (4) Statement, (5) response elicitation
+* 분절의 경계를 문법성이나 운율같은 요소로 판단하기는 어렵다. 기능적 분절(functional segment)이 하나의 대안이 될 수 있다. 즉, 하나의 소통적 기능이 수행되는지의 여부로 분절화하는 것이다.(Geertzen et al., 2007)
+* 기능적 분절은 비연속적일 수 있다.
+* 예제 (10)
+> A: Do you know what time the next train leaves?
+<br/>B: [The next  train is] ... \<let me see\> ... [at 7:48]
+
+  * \[...\]: answer_function
+  * \<...\>: stalling_function
+* 예제 (11)
+> a. A: and what departure times do you have on Saturday
+<br/>b. B: on Saturday I have a Lufthansa flight in the morning leaving at 8:15.
+<br/>c. A: yes,
+<br/>d. B: and a KLM fligth at 08:50,
+<br/>e. A: yes,
+<br/>f. B: and a Garoeda flight at 10:30.
+
+* 예제 문장 (11)은 기능적 분절이 한 턴 이상 연장될 수 있음을 보여준다.(multi-turn answer)
+* 예제 (12)
+> A: and then, *what* is the, ehm, *the branch office admin*, ehm, ...
+<br/>B: *booking code*- the admin booking code for this office is 14 2600
+
+* 예제 문장 (12)는 기능적 분절이 여러 화자에 의해 구성될 수 있음을 보여준다.
+* 예제 (13)
+> A: what time did he say the meeting will resume?
+<br/>B: uhm, two-thirty I think
+
+* 예제 문장 (13)은 기능적 분절이 항상 문법적으로 적법하지는 않다는 것을 보여준다.
+* 이러한 기능적 분절화 전략은 대화를 의미단위로 분절화하는데 효율적인 대안이 될 수 있다.
+
+### 17.3.3 Multifunctionality in utterances
+* 발화에서 다기능성 분절은 'overlapping', 'discontinuous', 그리고 'interleaved' 형태로 복잡하게 나타난다.
+* 예제 (14)
+> I think twenty five euros for a remote ... *is that locally something like fifteen pounds* ... is too much money to buy an extra remote or a replacement one ... or *is it even more?*
+
+* 예제 (14)는 다기능성 분절이 'inter-leaved' 형식으로 나타나는 양상을 보여준다.
+* 기능적 분절개념은 예제 (14)를 성공적으로 두 파트로 분절화할 수 있다.
+* 예제 (15)
+> A: and so [<ins>we started in</ins> [uh, ... ,] <ins>we started from</ins>] an empty lot
+
+* 예제 (15)는 discontinuous 다기능성이 나타나는 것을 보여준다. 그리고 기능적 분절화는 이것 또한 4개의 분절로 분리할 수 있다.
+* 이런 예제들은 기능적 분절개념이 발화의 다기능성 분절을 처리하는데 유용하다는 점을 잘 보여준다.
