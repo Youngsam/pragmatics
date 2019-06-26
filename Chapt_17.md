@@ -42,7 +42,7 @@ by Harry Bunt
   * 짧은 증명은 긴 증명보다 비용이 더 적다 => 적은 비용의 증명이 보다 그럴듯한(plausible) 설명이다
   * 'Interpretation as abduction' (Hobbs, 1990b; Hobbs et al., 1993)
 * 예제 (Hobbs et al., 1993)
-  <br/>(2) The Boston called
+  > (2) The Boston office called
   * 이해되어야 할 요소들
     * 정관사 'the'
     * 'Boston office'에서 'Boston'과 'office'의 관계
@@ -50,3 +50,14 @@ by Harry Bunt
   * 지식기반을 이용한 해석
     <br/>(3) boston'(x) EXT office'(y) EXT NN(y, x)
     <br/>(4) office'(B1), located-in(B1, B), boston'(B)
+  * 일반지식
+    <br/>located-in(x, y) => NN(x, y)
+* 예문 (2)의 해석은 지식기반과 일반지식의 귀추적 조합을 통해 도출될 수 있다. 만일 Boston에 위치한 다른 office들이 지식기반에 있다면, 가중치(weights) 계산을 통해 가장 그럴듯한 대안을 선택하면 된다.
+* NLU 시스템에선 이와같이 특정 상황정보와 일반적 지식을 종합한 형태의 추론이 필요하다.
+* Mini-TACITUS (Ovchinnikova, 2014) 시스템은 weighted abduction을 이용한 시스템으로, WordNet과 FrameNet과 같은 말뭉치 자료를 적극적으로 활용하였다.
+* 계산 화용론이 필요로 하는 세 가지 도구
+  * 추론을 위한 계산 알고리즘
+  * 화용적 속성이 주석된 말뭉치 자료
+  * 지식과 맥락에 대한 계산적 표현체계
+  
+## 17.3 Language as Action in Context
