@@ -75,21 +75,21 @@ by Harry Bunt
   4. 대화행위는 의미적, 화용론적 관계를 갖는 다른 대화행위에 의존적이며, 의미적으로 고립되어 있지 않다.
 ### 17.3.2 Dialogue segmentation
 * 구어 대화는 복수의 'turn'들도 분절화된다. 그리고 한 '턴'은 더 작게 분절화될 수 있다.
-* 예제 (8)
-  > A: Yes! Come tomorrow. Go to the church. Bill will be there. OK?
+  > 예제 (8)
+  <br/>A: Yes! Come tomorrow. Go to the church. Bill will be there. OK?
   <br/>B: The church, OK.
 
   * 5 functions in A: (1) Feedback giving, (2) Request, (3) Request, (4) Statement, (5) response elicitation
 * 분절의 경계를 문법성이나 운율같은 요소로 판단하기는 어렵다. 기능적 분절(functional segment)이 하나의 대안이 될 수 있다. 즉, 하나의 소통적 기능이 수행되는지의 여부로 분절화하는 것이다.(Geertzen et al., 2007)
 * 기능적 분절은 비연속적일 수 있다.
-* 예제 (10)
-> A: Do you know what time the next train leaves?
+> 예제 (10)
+<br/>A: Do you know what time the next train leaves?
 <br/>B: [The next  train is] ... \<let me see\> ... [at 7:48]
 
   * \[...\]: answer_function
   * \<...\>: stalling_function
-* 예제 (11)
-> a. A: and what departure times do you have on Saturday
+> 예제 (11)
+<br/>a. A: and what departure times do you have on Saturday
 <br/>b. B: on Saturday I have a Lufthansa flight in the morning leaving at 8:15.
 <br/>c. A: yes,
 <br/>d. B: and a KLM fligth at 08:50,
@@ -97,13 +97,13 @@ by Harry Bunt
 <br/>f. B: and a Garoeda flight at 10:30.
 
 * 예제 문장 (11)은 기능적 분절이 한 턴 이상 연장될 수 있음을 보여준다.(multi-turn answer)
-* 예제 (12)
-> A: and then, *what* is the, ehm, *the branch office admin*, ehm, ...
+> 예제 (12)
+<br/>A: and then, *what* is the, ehm, *the branch office admin*, ehm, ...
 <br/>B: *booking code*- the admin booking code for this office is 14 2600
 
 * 예제 문장 (12)는 기능적 분절이 여러 화자에 의해 구성될 수 있음을 보여준다.
-* 예제 (13)
-> A: what time did he say the meeting will resume?
+> 예제 (13)
+<br/>A: what time did he say the meeting will resume?
 <br/>B: uhm, two-thirty I think
 
 * 예제 문장 (13)은 기능적 분절이 항상 문법적으로 적법하지는 않다는 것을 보여준다.
@@ -111,13 +111,13 @@ by Harry Bunt
 
 ### 17.3.3 Multifunctionality in utterances
 * 발화에서 다기능성 분절은 'overlapping', 'discontinuous', 그리고 'interleaved' 형태로 복잡하게 나타난다.
-* 예제 (14)
-> I think twenty five euros for a remote ... *is that locally something like fifteen pounds* ... is too much money to buy an extra remote or a replacement one ... or *is it even more?*
+> 예제 (14)
+<br/>I think twenty five euros for a remote ... *is that locally something like fifteen pounds* ... is too much money to buy an extra remote or a replacement one ... or *is it even more?*
 
 * 예제 (14)는 다기능성 분절이 'inter-leaved' 형식으로 나타나는 양상을 보여준다.
 * 기능적 분절개념은 예제 (14)를 성공적으로 두 파트로 분절화할 수 있다.
-* 예제 (15)
-> A: and so [<ins>we started in</ins> [uh, ... ,] <ins>we started from</ins>] an empty lot
+> 예제 (15)
+<br/>A: and so [<ins>we started in</ins> [uh, ... ,] <ins>we started from</ins>] an empty lot
 
 * 예제 (15)는 discontinuous 다기능성이 나타나는 것을 보여준다. 그리고 기능적 분절화는 이것 또한 4개의 분절로 분리할 수 있다.
 * 이런 예제들은 기능적 분절개념이 발화의 다기능성 분절을 처리하는데 유용하다는 점을 잘 보여준다.
