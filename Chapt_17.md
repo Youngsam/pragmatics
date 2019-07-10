@@ -82,42 +82,42 @@ by Harry Bunt
   * 5 functions in A: (1) Feedback giving, (2) Request, (3) Request, (4) Statement, (5) response elicitation
 * 분절의 경계를 문법성이나 운율같은 요소로 판단하기는 어렵다. 기능적 분절(functional segment)이 하나의 대안이 될 수 있다. 즉, 하나의 소통적 기능이 수행되는지의 여부로 분절화하는 것이다.(Geertzen et al., 2007)
 * 기능적 분절은 비연속적일 수 있다.
-> 예제 (10)
-<br/>A: Do you know what time the next train leaves?
-<br/>B: [The next  train is] ... \<let me see\> ... [at 7:48]
+  > 예제 (10)
+  <br/>A: Do you know what time the next train leaves?
+  <br/>B: [The next  train is] ... \<let me see\> ... [at 7:48]
 
   * \[...\]: answer_function
   * \<...\>: stalling_function
-> 예제 (11)
-<br/>a. A: and what departure times do you have on Saturday
-<br/>b. B: on Saturday I have a Lufthansa flight in the morning leaving at 8:15.
-<br/>c. A: yes,
-<br/>d. B: and a KLM fligth at 08:50,
-<br/>e. A: yes,
-<br/>f. B: and a Garoeda flight at 10:30.
+  > 예제 (11)
+  <br/>a. A: and what departure times do you have on Saturday
+  <br/>b. B: on Saturday I have a Lufthansa flight in the morning leaving at 8:15.
+  <br/>c. A: yes,
+  <br/>d. B: and a KLM fligth at 08:50,
+  <br/>e. A: yes,
+  <br/>f. B: and a Garoeda flight at 10:30.
 
 * 예제 문장 (11)은 기능적 분절이 한 턴 이상 연장될 수 있음을 보여준다.(multi-turn answer)
-> 예제 (12)
-<br/>A: and then, *what* is the, ehm, *the branch office admin*, ehm, ...
-<br/>B: *booking code*- the admin booking code for this office is 14 2600
+  > 예제 (12)
+  <br/>A: and then, *what* is the, ehm, *the branch office admin*, ehm, ...
+  <br/>B: *booking code*- the admin booking code for this office is 14 2600
 
 * 예제 문장 (12)는 기능적 분절이 여러 화자에 의해 구성될 수 있음을 보여준다.
-> 예제 (13)
-<br/>A: what time did he say the meeting will resume?
-<br/>B: uhm, two-thirty I think
+  > 예제 (13)
+  <br/>A: what time did he say the meeting will resume?
+  <br/>B: uhm, two-thirty I think
 
 * 예제 문장 (13)은 기능적 분절이 항상 문법적으로 적법하지는 않다는 것을 보여준다.
 * 이러한 기능적 분절화 전략은 대화를 의미단위로 분절화하는데 효율적인 대안이 될 수 있다.
 
 ### 17.3.3 Multifunctionality in utterances
 * 발화에서 다기능성 분절은 'overlapping', 'discontinuous', 그리고 'interleaved' 형태로 복잡하게 나타난다.
-> 예제 (14)
-<br/>I think twenty five euros for a remote ... *is that locally something like fifteen pounds* ... is too much money to buy an extra remote or a replacement one ... or *is it even more?*
+  > 예제 (14)
+  <br/>I think twenty five euros for a remote ... *is that locally something like fifteen pounds* ... is too much money to buy an extra remote or a replacement one ... or *is it even more?*
 
 * 예제 (14)는 다기능성 분절이 'inter-leaved' 형식으로 나타나는 양상을 보여준다.
 * 기능적 분절개념은 예제 (14)를 성공적으로 두 파트로 분절화할 수 있다.
-> 예제 (15)
-<br/>A: and so [<ins>we started in</ins> [uh, ... ,] <ins>we started from</ins>] an empty lot
+  > 예제 (15)
+  <br/>A: and so [<ins>we started in</ins> [uh, ... ,] <ins>we started from</ins>] an empty lot
 
 * 예제 (15)는 discontinuous 다기능성이 나타나는 것을 보여준다. 그리고 기능적 분절화는 이것 또한 4개의 분절로 분리할 수 있다.
 * 이런 예제들은 기능적 분절개념이 발화의 다기능성 분절을 처리하는데 유용하다는 점을 잘 보여준다.
@@ -174,3 +174,58 @@ by Harry Bunt
   * (21b)는 (21a)의 대화행위가 아니라 발화에 대한 응답이다. 이와같이, 이전에 있었던 발화내용의 인지 혹은 해석을 나타내는 대화행위는 이전 내용과 피드백 의존관계를 갖는다.
   * 긍정 피드백은 언어적 표현 뿐 아니라 제스처와 같은 형태로도 흔히 표현된다.
 * Exemplication and Explanation relations
+  > (22)<br/>
+  a. A: it ties you on in terms of the technology and the complexity that you want 
+  b. A: like  for example voice recognition
+  c. A: because you might need to power a microphone and other things
+  
+  * (22b) --> (22a): exemplication relation
+  * (22c) --> (22a): explanation relation
+  * 이 관계는 **rhetorical relation**, **coherence relation**, **discourse relation** 등의 이름으로도 불린다.
+* 상당수의 기존 연구들에서 연구된 관계들은 일반 텍스트 데이터에 대한 것들 뿐이었다.
+
+## 17.5 Computational Resources for Discourse and Dialogue Pragmatics
+### 17.5.1 Corpora, standards, and other tools
+* 다른 자연어 처리 연구분야와 마찬가지로 큰 규모의 주석된 말뭉치 자료는 매우 중요하지만 현재 부족한 실정이다.
+* 대규모의 주석된 화용론 말뭉치 제작을 위해선 (1) 잘 정의된 표준적인 주석체계, (2) 그런 표준 주석체계를 지원하는 소프트웨어 도구가 필요하다.
+
+### 17.5.2 Annotation schemes
+* DAMSL: Dialogue Act Markup using Several Layers (1997)
+  * 대화 데이터 주석을 위한 선구적인 시도
+  * 소통기능이나 대화차원에 대한 정의의 미비, 미완성으로 끝남
+* DIT<sup>++</sup> annotation scheme
+  * 다양한 대화행위 유형을 지원하고 대화의 차원을 소통의 특정 요소(aspects)에 맞는 대화행위의 묶음으로 정의함
+  * DAMSL을 포함한 다양한 기존의 scheme들의 소통기능 정의들을 지원하며, 차원과 소통기능을 구분하여 분류체계를 제공함
+  * ISO 24617-2에 이용됨 (Bunt et al., 2010)
+
+### 17.5.3 Software tools
+* 대화데이터 주석용 툴
+  * DialogueView (Heeman et al., 2002)
+  * ACT (Yang et al., 2002)
+  * GATE (Cunningham, 2002)
+  * NITE XML toolkit (Carletta et al., 2009)
+  * ANVIL (Kipp, 2001)
+  * ELAN (Wittenburg et al., 2006)
+  * MMAX<sub>2</sub> (Muller and Strube, 2003)
+* 담화 관계 주석용 툴
+  * RSTTool (O'Donnell, 2000)
+  * Conano tool (Stede and Heintze, 2004)
+* 자동 대화행위 주석 툴
+  * Petukhova (2011)
+  * 구어 대화 데이터를 DIT<sup>++</sup>와 ISO 24617-2 표준에 따라 다차원 주석을 성공적으로 수행함
+  * AMI 말뭉치와 HCRC 말뭉치에 적용시 정확도 96% 기록 (Petukhova and Bunt, 2011)
+  
+### 17.5.4  Annotated corpora
+* Penn Discourse Treebank (PDTB): 뉴스기사 데이터 주석
+* Postdamer Commentary Corpus: 뉴스기사 데이터 주석
+* 대화 데이터 주석 말뭉치
+  * Switchboard corpus
+  * ICSI-MRDA corpus
+  * AMI corpus
+  * HCRC Map Task corpus
+* 대부분의 말뭉치들은 데이터 영역에 따라 주석방식이 상이함. ISO 24617-2에 따른 대화주석 말뭉치는 현재 개발중 (DialogBank)
+
+## 17.6 Conclusion and Perspectives
+* 계산 화용론 연구를 위해서는 대규모의 화용론 주석 데이터가 반드시 필요하고, 이 때문에 ISO 24617-2 표준의 탄생은 중요하다.
+* Mini-Tacitus와 같은 귀추적 추론 시스템은 대화함축이나 맥락기반적 해석과 같은 화용론적 현상의 연구를 크게 도울 것이다.
+* 계산 화용론은 해석과 생성, 추론과 학습에 대한 계산모형을 제공함으로써 언어와 맥락이 어떻게 상호작용하는지를 설명하는데 기여할 것이다.
