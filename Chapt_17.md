@@ -121,3 +121,21 @@ by Harry Bunt
 
 * 예제 (15)는 discontinuous 다기능성이 나타나는 것을 보여준다. 그리고 기능적 분절화는 이것 또한 4개의 분절로 분리할 수 있다.
 * 이런 예제들은 기능적 분절개념이 발화의 다기능성 분절을 처리하는데 유용하다는 점을 잘 보여준다.
+
+### 17.3.4 Dialgoue act interpretation
+* 대화행위가 전통적인  화행과 다른 두 가지 차이점
+  * 대화행위는 보다 분명한 내적구조를 가진다.
+  * 대화행위의 계산적 해석은 정보상태 변화에 따라 이루어진다.
+* DiAML (Dialogue Act Markup Language) by Bunt (2011, 2014)
+  * ISO annotation standard 24617-2
+  * 정보상태는 '대화이력'이라는 요소를 가지며, 이것은 대화에 나타난 내역을 기록하게 된다.
+  * 정보상태는 또한 'pending context'라는 부분을 가지며, 이것은 정보상태를 갱신하기 전에 consistency check를 위해 갱신관련 정보들을 임시저장한다.
+  * DIT<sup>++</sup>: taonomies of dialogue act types
+  * 갱신 과정의 예: propositional question
+    <br/>(16)<br/> ![](http://latex.codecogs.com/gif.latex?V_a%28%5Ctext%7BPropositional%20Question%7D%29%3D%5Clambda%20X.%20%5Clambda%20Y.%20%5Clambda%20Y_i.%20%5Clambda%20p.%20%5Ctext%7BU%7D_%7B10%7D%28X%2CY%2CY_p%2C%20P%29%5Ccup%20%5Ctext%7BU%7D_%7B11%7D%28X%2CY%2CY_p%2C%20P%29)
+  * 예제 (16)의 X와 Y는 각각 대화행위의 송신자와 수신자를 가리키고, Y<sub>p</sub>는 수신자의 pending context를, p는 질문의 명제적 내용을, U는 정보 갱신작용을 가리킨다.
+    <br/>(17)<br/>
+    U<sub>10</sub>(X, Y, Y<sub>i</sub>, P): Y의 pending context에 참가자 X가 명제 P인지를 알기 원한다는 정보를 추가한다.<br/>
+    U<sub>11</sub>(X, Y, Y<sub>i</sub>, P): Y의 pending context에 참가자 X가 참가자 Y가 명제 P인지를 알기 원한다고 가정한다는 정보를 추가한다.
+  
+  
