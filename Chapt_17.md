@@ -224,6 +224,8 @@ by Harry Bunt
   * AMI corpus
   * HCRC Map Task corpus
 * 대부분의 말뭉치들은 데이터 영역에 따라 주석방식이 상이함. ISO 24617-2에 따른 대화주석 말뭉치는 현재 개발중 (DialogBank)
+  * [Paper](https://www.aclweb.org/anthology/L16-1503) and [site](https://dialogbank.uvt.nl/annotated-dialogues/)
+  !{](img/ch_17_1.PNG)
 
 ## 17.6 Conclusion and Perspectives
 * 계산 화용론 연구를 위해서는 대규모의 화용론 주석 데이터가 반드시 필요하고, 이 때문에 ISO 24617-2 표준의 탄생은 중요하다.
