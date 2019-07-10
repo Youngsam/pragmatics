@@ -228,7 +228,7 @@ by Harry Bunt
   * HCRC Map Task corpus
 * 대부분의 말뭉치들은 데이터 영역에 따라 주석방식이 상이함. ISO 24617-2에 따른 대화주석 말뭉치는 현재 개발중 (DialogBank)
   * [Corpus site](https://dialogbank.uvt.nl/annotated-dialogues/)
-  * Example [(Bunt et al., 2016)](https://www.aclweb.org/anthology/L16-1503) and 
+  * Example [(Bunt et al., 2016)](https://www.aclweb.org/anthology/L16-1503) 
   ![](img/ch_17_1.PNG)
 
 ## 17.6 Conclusion and Perspectives
