@@ -139,4 +139,38 @@ by Harry Bunt
     U<sub>10</sub>(X, Y, Y<sub>i</sub>, P): Y의 pending context에 참가자 X가 명제 P인지를 알기 원한다는 정보를 추가한다.<br/>
     U<sub>11</sub>(X, Y, Y<sub>i</sub>, P): Y의 pending context에 참가자 X가 참가자 Y가 명제 P인지를 알기 원한다고 가정한다는 정보를 추가한다.
   
+* 대화행위 의미론 접근법은 대화행위 간의 추론을 설명할 수 있다.
+  * 'Confirm' 행위는 'Answer' 행위를 전제한다.
+  * 'Threat' 행위는 'Inform' 행위를 전제한다.
   
+### 17.3.5 Dialogue acts and grounding
+* 대화에서 grounding이란 대화중 참여자가 인지된 공통분모(common ground)를 새로운 요소를 추가하며 갱신(update)함을 가리킨다.
+* Matheson et al. (2000)은 정보상태 갱신적 관점에서 grounding act를 통해 정보상태의 ungrounded 담화유닛이 grounded 되는 과정을 모형화하고자 노력했으나 이전 발화정보를 제한하였다는 한계가 있었다.
+* Bunt et al. (2007)은 대화행위의 DIT 이론에 근거한 grounding 계산 모형을 제시하였다. 이 모형은 'feedback chaining principle'을 받아들여, 화자와 청자는 '긍정' 피드백을 통해 서로 공유하는 공통분모를 순차적 방식으로 강화한다고 보았다.
+
+  > (19)<br/>
+  a. U: Where should I insert the paper?
+  b. S: In the feeder.
+  c. U: Should I put it in the bottom from tray?
+  d. S: No, in the open tray on top.
+  e. **U: OK thanks.**
+  
+* 예제 (19)의 e를 통해 참가자 S는 U가 paper가 위치해야할 장소가 어디인지에 대한 의미가 공통적으로 확인되었다고 여기기 된다.
+
+## 17.4 Relations in Dialogue and Discourse
+* 기능적 의존관계(functional dependence relation)
+  > (20)<br/>
+  a. A: I'm expecting Jan, Alex, Claudia, and David, and maybe Olga and Andrei.
+  b. B: Do you know who's coming tonight?
+  c. B: Which of the people from the project will be there tonight?
+  
+  * 위 예제는 현재 대화행위가 연결된 이전의 대화행위 의미내용에 의해 영향을 받는 양상을 보여준다. (20a)의 답변의 의미는 (20b)와 (20c)라는 각각 다른 질문에 따라 그 의미가 다르게 결정된다.
+  
+* 피드백 의존관계(feedback dependence relation)
+  > (21)<br/>
+  a. A: Is this flight also available on Thursday?
+  b. B: On Thursday you said?
+  
+  * (21b)는 (21a)의 대화행위가 아니라 발화에 대한 응답이다. 이와같이, 이전에 있었던 발화내용의 인지 혹은 해석을 나타내는 대화행위는 이전 내용과 피드백 의존관계를 갖는다.
+  * 긍정 피드백은 언어적 표현 뿐 아니라 제스처와 같은 형태로도 흔히 표현된다.
+* Exemplication and Explanation relations
