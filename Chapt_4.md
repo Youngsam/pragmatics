@@ -59,3 +59,40 @@ by Deirdre Wilson
 * 위 예제에서 문장의미와 화자의미는 유기적으로 같이 가는 것은 아니다.
 * 문장의미에서 PAPER와 'he'에 대한 처리가 화용적 해석으로부터 독립적이지 않다.
 * 청자는 적합성을 만족시키는 해석을 통해 문장의미를 구성하는 것이다.
+* Relevance-guided comprehension heuristic
+  가장 적은 노력으로 가장 적절한 맥락적 함축을 수행한다.
+* 위 예에서 볼 수 있듯이, decoding과 inferencing은 순차적 처리 과정이라기 보다는 병렬적 처리 과정이라고 보아야 한다.
+* 이런 배경에서 적합성 이론 지지자들은 'explicature'라는 개념을 'implicature' 대신 제안하였다.
+* Explicature는 두 가지 요소를 갖는다.
+  * 소통이 이루어진 명제
+  * Decoding과 inferencing을 통해 확인된다.
+> 예제: Explicature
+<br/>(3) b. He has to finish a paper.
+<br/>(7) a. Billy has to finish a paper.
+<br/>&nbsp;&nbsp;&nbsp;&nbsp; b. Billy Smith has to finish writing a paper.
+<br/>&nbsp;&nbsp;&nbsp;&nbsp; c. Billy Smith has to finish writing an academic paper soon.
+
+* 예제 7a-c는 decoding이 점점 진행될 수록 inferencing은 점점 약해지는 패턴을 보여준다. 그리고 화자 의미는 점점 explicit 해진다. 
+* 'Explicature'란 용어를 두고 논쟁이 있는데, 이 논쟁의 진짜 배경은 의사소통에서 언어적 의미의 역할에 대한 의견차이에 있다.
+
+## 4.5 Lexical Paragmatic and the Literal-Figurative Distinction
+* 어휘화용론은 의미-화용 구분을 어휘 혹은 절 차원에서 구분하려고 시도해왔다.
+* 언어적으로 인코딩된 단어 의미가 사용시에 적절하게 조절된다.
+  * Lexical narrowing: drink --> drink alcohol
+  * Approximation: square --> squarish
+  * Metaphorical 확장: nightmare --> bad experience
+* 적합성 이론 지지자들의 입장
+  * 문자 그대로의 의미는 화용적 해석에 의해 항상 조절된다.
+  * 문자적 의미와 비유적 의미 사이의 discrete한 경계는 없다.
+* Levinson (2000)과 같은 기존주장은 어휘의 디폴트 해석은 보다 큰 맥락에 의해 영향을 받지 않는다는 것이었다.
+* Kolaiti & Wilson (2014)의 어휘 말뭉치 분석연구에 따르면, 청자의 표준의미 선호해석은 50% 정도에만 도움이 되고, 50% 정도는 잘못된 해석으로 인도하게 되는 것으로 나타났다.
+
+* 그라이스의 전통적 입장은 문자적/비유적 어휘 사용이 뚜렷하게 구분된다는 것이지만, 적합성 이론가들은 문자적 사용과 근사법(approximation), 과장법, 은유 사이엔 명시적 경계가 없고 연속적 특성(continuum)을 갖는다고 보았다.
+* 그럴듯한 화용론이라면 이 다양한 어휘-화용적 작용을 통일적으로 설명할 수 있어야 하지만 적합성 이론 외에는 이 문제에 특별한 관심을 기울이지 않고 있다.
+## 4.6 The Conceptual-Procedural Distinction (PASS)
+
+## 4.7 Concluding Remarks
+* 청자에게는 화자의 메세지에 대해 두 가지의 과제가 있다.
+  * 명시된 인지적 효과를 확인하며 언어적, 맥락적 정보를 활용해 화자의 의미를 추측하는 것
+  * 전달된 의미의 신뢰성을 검토하는 것 (epistemic vigilance)
+* 이해 (comprehension)란 적합성 탐색과 인식적 경계 (epistemic vigilance)와 같은 작용이 최선의 의사소통을 위해 상호연결된 하나의 과정일지 모른다.
