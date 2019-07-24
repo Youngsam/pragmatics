@@ -49,9 +49,13 @@ by Deirdre Wilson
 <br/>(3) a. Peter: Let's ask Billy to see a film with us tonight.
 <br/>&nbsp;&nbsp;&nbsp;&nbsp; b. Mary: He has to finish a paper
 <br/><br/>(4) 메리가 말한  것 (문장 의미 관련)
-<br/> Billy<sub>i</sub> has to finish doing something with a PAPER at some point in the future.
+<br/>&nbsp;&nbsp;&nbsp;&nbsp; Billy<sub>i</sub> has to finish doing something with a PAPER at some point in the future.
 <br/><br/>(5) 화용적으로 나아간 (4)의 의미
-<br/> Billy<sub>i</sub> has to finish writing a PAPER soon.
+<br/>&nbsp;&nbsp;&nbsp;&nbsp; Billy<sub>i</sub> has to finish writing a PAPER soon.
 <br/><br/>(6) 최종 함축
-a. A good reason for not asking someone out is that they have to finish writing a PAPER soon.
-b. They shouldn't ask Billy<sub>i</sub> out because he<sub>i</sub> has to finish writing a PAPER soon.
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;a. A good reason for not asking someone out is that they have to finish writing a PAPER soon.
+<br/>&nbsp;&nbsp;&nbsp;&nbsp;b. They shouldn't ask Billy<sub>i</sub> out because he<sub>i</sub> has to finish writing a PAPER soon.
+
+* 위 예제에서 문장의미와 화자의미는 유기적으로 같이 가는 것은 아니다.
+* 문장의미에서 PAPER와 'he'에 대한 처리가 화용적 해석으로부터 독립적이지 않다.
+* 청자는 적합성을 만족시키는 해석을 통해 문장의미를 구성하는 것이다.
