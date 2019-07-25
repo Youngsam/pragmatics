@@ -22,7 +22,7 @@ by Deirdre Wilson
 <br/> "Human cognition tends to be geared to the maximization of relevance"
 
 * 이 원리에 따르면, 인간의 추론 시스템은 보다 논리적으로 타당한 것보다는 더 큰 인지적 효과가 기대되는 결론을 도출하는 방향을 선호한다.
-> 에제: Van der Henst의 설험
+> 에제: Van der Henst의 실험
 <br/> Determinate relational problem
 <br/>(1) a. A is taller than B
 <br/>&nbsp;&nbsp;&nbsp;&nbsp; b. B is taller than C
