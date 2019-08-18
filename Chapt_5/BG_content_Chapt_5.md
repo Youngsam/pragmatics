@@ -27,21 +27,21 @@
 
 (2.4) 영어에서 탈퇴 방어책들
   * 질:
-    As far as I know,
-    I'm not sure if this is true, but...
-    I may be wrong, but...
+    As far as I know, <br/>
+    I'm not sure if this is true, but... <br/>
+    I may be wrong, but... <br/>
   * 양:
-    As you probably already know,
-    I can't say any more,
-    I probably don't need to say this, but...
+    As you probably already know, <br/>
+    I can't say any more, <br/>
+    I probably don't need to say this, but... <br/>
   * 관련성:
-    Oh, by the way,
-    I'm not sure if this is relevant, but...
-    I don't want to change the subject, but...
+    Oh, by the way, <br/>
+    I'm not sure if this is relevant, but... <br/>
+    I don't want to change the subject, but... <br/>
   * 태도:
-    I'm not sure if this clear, but...
-    I don't know if this makes sense, but...
-    This may be a bit tedious, but...
+    I'm not sure if this clear, but... <br/>
+    I don't know if this makes sense, but... <br/>
+    This may be a bit tedious, but... <br/>
 
 위에서 볼 수 있듯이 화자는 이 격률을 준수하기 위한 방어책을 구사한다.
 
