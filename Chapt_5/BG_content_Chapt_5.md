@@ -48,7 +48,7 @@
 ### 2.1.3 준수된 대화함축과 무시된 대화함축
 그라이스는 대화함축, 즉 엄격한 의미에서 말해진 바의 일부가 아니지만 의도된 전달 메시지를 포함하는 비논리적 추론들의 집합인 대화함축은 격률 등을 엄격히 준수하거나 혹은 과시적으로 무시함으로써 일어난다고 제안하였다.
 
-* 준수된 대화함축(conversational implicature<sub>0</sub>)<br/>
+* **준수된 대화함축(conversational implicature<sub>0</sub>)**<br/>
 (2.5) 질:<br/>
   Tim Berners-Lee invented the World Wide Web in 1989.<br/>
   +> The speaker believes that Time Berners-Lee invented the World Wide Web in 1989, and has adequate evidence that he did.<br/>
@@ -65,4 +65,6 @@
 
 * (2.6)은 양의 첫 번째 하위격률("필요 이하로 말하지 마라")이 수행됨을 보여준다.
 * (2.7)에서 일어나는 대화함축은 관련성 격률을 준수하는 데서 나타난다. 즉, 메리는 직접적인 답변을 할 수는 없었지만 적어도 존에게 의미적으로 관련 있는 답변을 한 것이다.
-* (2.8)에서 대화함축은 태도의 네 번째 하위격률("순서를 지켜라.")을 준수하는 데서 나타난다. 
+* (2.8)에서 대화함축은 태도의 네 번째 하위격률("순서를 지켜라.")을 준수하는 데서 나타난다.
+
+  화자가 의도적으로 격률들을 무시함으로써 대화함축이 생성될 수 있다. 이런 식으로 이끌어낸 대화함축을 **무시된 대화함축(conversational implicature<sub>F</sub>)** 이라고 부른다.
