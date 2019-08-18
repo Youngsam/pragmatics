@@ -5,7 +5,7 @@
 
 ## 2.1 대화함축에 관한 그라이스 고전 이론
 ### 2.1.1 협력의 원리와 대화 격률들
-* 단순화된 그라이스의 대화함축 이론
+(2.3) 단순화된 그라이스의 대화함축 이론
   * 협력의 원리
     * 협력적이어라.
   * 대화 격률들
@@ -21,3 +21,28 @@
       2. 중의성을 피하라.
       3. 간략히 하라.
       4. 순서를 지켜라.
+
+### 2.1.2 화자와 격률들 간의 관계
+격률들과 관련해 화자는 이 격률을 준수하던지 아니면 격률을 의도적으로 위반할 수 있다. 그 외에도 화자는 방어적 태도를 위해 격률을 따르지 않을 수 있다.
+
+(2.4) 영어에서 탈퇴 방어책들
+  * 질:
+    As far as I know,
+    I'm not sure if this is true, but...
+    I may be wrong, but...
+  * 양:
+    As you probably already know,
+    I can't say any more,
+    I probably don't need to say this, but...
+  * 관련성:
+    Oh, by the way,
+    I'm not sure if this is relevant, but...
+    I don't want to change the subject, but...
+  * 태도:
+    I'm not sure if this clear, but...
+    I don't know if this makes sense, but...
+    This may be a bit tedious, but...
+
+위에서 볼 수 있듯이 화자는 이 격률을 준수하기 위한 방어책을 구사한다.
+
+### 2.1.3 준수된 대화함축과 무시된 대화함축
