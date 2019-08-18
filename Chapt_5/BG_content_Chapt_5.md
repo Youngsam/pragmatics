@@ -26,19 +26,19 @@
 격률들과 관련해 화자는 이 격률을 준수하던지 아니면 격률을 의도적으로 위반할 수 있다. 그 외에도 화자는 방어적 태도를 위해 격률을 따르지 않을 수 있다.
 
 (2.4) 영어에서 탈퇴 방어책들
-  * 질:
+  * 질:<br/>
     As far as I know, <br/>
     I'm not sure if this is true, but... <br/>
     I may be wrong, but... <br/>
-  * 양:
+  * 양:<br/>
     As you probably already know, <br/>
     I can't say any more, <br/>
     I probably don't need to say this, but... <br/>
-  * 관련성:
+  * 관련성:<br/>
     Oh, by the way, <br/>
     I'm not sure if this is relevant, but... <br/>
     I don't want to change the subject, but... <br/>
-  * 태도:
+  * 태도:<br/>
     I'm not sure if this clear, but... <br/>
     I don't know if this makes sense, but... <br/>
     This may be a bit tedious, but... <br/>
@@ -46,3 +46,19 @@
 위에서 볼 수 있듯이 화자는 이 격률을 준수하기 위한 방어책을 구사한다.
 
 ### 2.1.3 준수된 대화함축과 무시된 대화함축
+그라이스는 대화함축, 즉 엄격한 의미에서 말해진 바의 일부가 아니지만 의도된 전달 메시지를 포함하는 비논리적 추론들의 집합인 대화함축은 격률 등을 엄격히 준수하거나 혹은 과시적으로 무시함으로써 일어난다고 제안하였다.
+
+* 준수된 대화함축(conversational implicature<sub>0</sub>)
+(2.5) 질:<br/>
+  Tim Berners-Lee invented the World Wide Web in 1989.<br/>
+  +> The speaker believes that Time Berners-Lee invented the World Wide Web in 1989, and has adequate evidence that he did.<br/>
+(2.6) 양:<br/>
+  John has six credit cards.<br/>
+  +> John as at most six credit cards.<br/>
+(2.7) 관련성:<br/>
+  John: What's the time?<br/>
+  Mary: The messeum hasn't opened yet.<br/>
+  +> It's at least before whenever the museum normally opens.<br/>
+(2.8) 태도:<br/>
+  John went to McDonaled's and bought two hamburgers.<br/>
+  +> John first went to a McDonald's and then bought two hamburgers.<br/>
