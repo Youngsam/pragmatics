@@ -67,4 +67,21 @@
 * (2.7)에서 일어나는 대화함축은 관련성 격률을 준수하는 데서 나타난다. 즉, 메리는 직접적인 답변을 할 수는 없었지만 적어도 존에게 의미적으로 관련 있는 답변을 한 것이다.
 * (2.8)에서 대화함축은 태도의 네 번째 하위격률("순서를 지켜라.")을 준수하는 데서 나타난다.
 
- 화자가 의도적으로 격률들을 무시함으로써 대화함축이 생성될 수 있다. 이런 식으로 이끌어낸 대화함축을 **무시된 대화함축(conversational implicature<sub>F</sub>)** 이라고 부른다.
+화자가 의도적으로 격률들을 무시함으로써 대화함축이 생성될 수 있다. 이런 식으로 이끌어낸 대화함축을 **무시된 대화함축(conversational implicature<sub>F</sub>)** 이라고 부른다.
+
+화자가 격률들을 명백하게 무시하는 경우, 청자는 협력의 원리가 포기되었다고 생각하거나 아니면 여전히 협력의 원리를 준수한다고 가정하면서 그 메시지를 추론하고자 한다.
+
+(2.10) 질:<br/>
+  Chomsky is a great sociolinguist.<br/>
+  +> Chomsky is no sociolinguist at all.<br/>
+(2.11) 양:<br/>
+  War is war.<br/>
+  +> Terrible things always happen in war. That's its nature, and it's no use lamenting that particular tragedy.<br/>
+(2.12) 관련성:<br/>
+  John: Susan can be such a cow sometimes!<br/>
+  Mary: Oh, what a lovely day today!<br/>
+  +> One shouldn't speak ill of people behind their back.<br/>
+(2.13) 태도:<br/>
+  a. John smiled.<br/>
+  b. The corners of John's lips turned slightly upward.
+  +> John did not exactly smile.<br/>
