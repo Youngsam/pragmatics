@@ -83,5 +83,10 @@
   +> One shouldn't speak ill of people behind their back.<br/>
 (2.13) 태도:<br/>
   a. John smiled.<br/>
-  b. The corners of John's lips turned slightly upward.
+  b. The corners of John's lips turned slightly upward.<br/>
   +> John did not exactly smile.<br/>
+
+## 2.2 대화함축에 관한 두 가지 신 그라이스식 이론
+대화함축에 대한 그라이스의 고전이론을 보다 축소하고자 하는 다양한 시도들이 있었다. 이런 모든 축소주의 모형들 중에서 가장 영향력 있는 것은 **두 원리를 가정하는 혼의 화용 이론** 과 **세 원리를 가정하는 레빈슨의 신 그라이스 화용 이론** 이다.
+
+### 2.2.1 혼 시스템
