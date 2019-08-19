@@ -112,12 +112,23 @@ Horn (1984, 1989, 2004)는 이분지 모형을 제안했다. 혼의 견해에 �
 a. <all, some><br/>
 b. <hot, warm><br/>
 c. <excellent, good><br/>
-d <the, a><br/>
+d. <the, a><br/>
 e. <beautiful, pretty, attractive><br/>
 
 (2.3a)의 all은 some을 함의하지만, 그 역은 성립하지 않으므로 all은 의미적으로 some보다 강하다. 그리고 all과 some은 비교적 동등하게 어휘화되었고, 둘 다 양화사, 즉 동일한 의미장에 속한다.
 
 (2.33) 혼-등급을 설명하지 못하는 경우의 예들<br/>
-a. \*<iff, if><br/>
-b. \*<regret, know><br/>
-c. \*<(p because q), (p and q)><br/>
+a. \*<iff, if>  # 2.31-2 위반 <br/>
+b. \*<regret, know>  # 2.31-3에 의해 배제 <br/>
+c. \*<(p because q), (p and q)>  # 2.31-3에 의해 배제 <br/>
+
+(2.34) <excellent, good> (Q-함축의 예)<br/>
+  The compnay is providing a good digital TV service for this area.<br/>
+  +> The compnay is not providing an excellent digital TV service for  this area.<br/>
+
+이에 대항하는 R-원리는 그라이스의 양-2, 관련성, 태도-3, 태도-4 격률들을 포괄하며, lower-bounding 대화함축을 만들어내는 데 이용될 수 있는 upper-bounding 화용론 원리이다. 즉, 화자는 P라고 말하면서 "P 이상"을 대화상 함축한다.
+
+(2.35) R-원리 에제<br/>
+  John broke a finger yesterday<br/>
+  +> The finger was one of John's<br/>
+  
