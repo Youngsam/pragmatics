@@ -41,4 +41,6 @@ by Reinhard Blutner
 * 의미-형식 쌍에 대한 쌍방향 최적성은 (1) 강한 방식과, (2) 약한 방식으로 나누어진다.
 * Formalism of Bidirectional OT
   * Generator: **Gen** &#8838; **F** X **M** gives the set of all potential form-meaning pairs
-  * &#12296;**GEN**, **&#8827;**&#12296;: OT-system for form-meaning paris
+  * &#12296;**GEN**, **&#8827;**&#12297;: OT-system for form-meaning pairs
+  * *f' ><sub>m</sub> f* says that the pair &#12296;*f', *m*&#12297; satisfies the system of (ranked) constraints better than the pair &#12296;*f, m*&#12297;.
+  * *m' ><sub>f</sub> m* says that the pair &#12296;*f, *m'*&#12297; satisfies the system of (ranked) constraints better than the pair &#12296;*f, m*&#12297;.
