@@ -137,7 +137,7 @@ Horn은 화용론적 추론을 위한 그라이스 장치 전반은 Q-원리와 
 (2.36) 혼의 화용론적 작업분담
 > 무표적인 (보다 간단하고, '노력을' 덜 요하는) 다른 표현이 사용될 수 있을 때 이에 대응되는 유표적 (비교적 복잡하거나 장황한) 표현을 사용하는 것은 유표적 메시지를 (무표적 다른 표현이 전달하지 않았을 혹은 전달할 수 없었을 메시지를) 전달하는 것으로 해석되는 경향이 있다.
 
-간단히 말하면 (2.36)은 대비되는 어떤 언어 형태를 사용하면 적절한 R-함축이 적용될 수 없다는 Q-함축이 유도될 때까지는 R-원리가 일반적으로 우선권을 갖는다는 것을 뜻한다.
+간단히 말하면 (2.36)은 대비되는 어떤 언어 형태를 사용하면 적절한 R-함축이 적용될 수 없다는 Q-함축이 유도될 때까지는 R-원리가 일반적으로 우선권을 갖는다는 것을 뜻한다. 하지만 레빈슨은 이러한 작업분담의 원리가 발화 생성 단위들에 의해서 작동하는 반면에, 혼-등급 등의 다른 곳에서는 주로 의미적 정보성에 의해서 작동하는 것 같다고 지적한다.
 
 ### 2.2.2 레빈슨 체계
 Levinson (1987, 1991, 2000)은 혼의 방법이 **의미적 최소화** 와 **표현의 최소화** 를 구분하지 못했다고 비판하고, 발화의 표층형태에 관한 화용론 원리들과 그 정보적 내용에 관한 화용론 원리들을 구분하는 체계를 제안하였다. 그의 체계를 **세 개의 신 그라이스 화용 원리** 라고 부른다.
@@ -146,10 +146,48 @@ Levinson (1987, 1991, 2000)은 혼의 방법이 **의미적 최소화** 와 **�
   화자: (I-원리를 염두에 두고서) 필요 이하로 말하지 마라.<br/>
   청자: 말해지지 않은 것은 해당 사항이 아니다.<br/>
 
+(2.40) <identical, similar><br/>
+  The two impressionist paintings are similar.<br/>
+  +> The two impressionist paintings are not identical.<br/>
+
+즉, 정보상으로 강한 표현이 제시되지 않았을 때 우리는 그 표현의 사용과 관련된 해석이 적용되지 않는다고 추론한다. 보다 쉽게 표현하면, **Q-원리는 말해지지 않는 함축을 부정한다.**
+
 (2.56) I[informativeness]-원리<br/>
   화자: (Q-원리를 염두에 두면서) 요구된 것 이상으로 말하지 마라.
   청자: 일반적인 발화내용은 원형적으로 그리고 명시적으로 예시화된 것이다.
 
+Q-원리의 취지와 흡사하게, 의미상 일반적인 표현을 사용하면 의미상 명시적인 해석을 I-함축한다는 것이 I-원리의 중심적인 생각이다. 즉, 화자는 P 라고 말하면서 "P 이상"을 대화상 함축한다. 더 정확히 말하면, I-원리에 의한 대화함축은 보다 명시적이고 가장 원형적인 설명에 부합하는 종류의 함축이다.
+
+(2.58) 접속문 연결 해석<br/>
+  p and q +> p and then q<br/>
+  p and q +> p therefore q<br/>
+  p and q +> p in order to cause q<br/>
+John pressed the spring and the drawer opened.<br/>
++> John pressed the spring and then the drawer opened.<br/>
++> John pressed the spring and thereby caused the drawer to open.<br/>
++> John pressed the spring in order to make the drawer open.
+
+(2.59) 조건절 강화<br/>
+  if p then q +> iff. p then q<br/>
+  If you give me a free Beethoven, I'll buy five Mozarts.<br/>
+  +> If and only if you give me a free Beethoven will I buy five Moarts.<br/>
+
 (2.79) M[anner]-원리<br/>
-  화자: 이유 없이 유표적 표현을 사용하지 마라.
-  청자: 유표적(비교적 복잡하거나 장황한)인 방식으로 말해진 것은 무표적(보다 간단하고, '노력을' 덜 요하는)이지 않다.
+* 화자:
+  비정상적이고 비원형적인 상황은 이에 상응하는 정상적이고 원형적 상황을 기술하는데 사용될 수 있는 그런 표현들과 대조를 이루는 유표적 표현을 사용하여 지시하라.
+* 청자:
+  비정상적인 방식으로 말해진 것은 비정상적인 상황을, 혹은 유표적 메시지는 유표적 상황을 지시한다.
+
+이 원리가 말하고자 하는 것은 유표적 언어표현이 사용되면, 무표적인 표현과 관련된 원형적 해석이 적용되지 않는다는 것이다.
+
+(2.81) <br/>
+a. The timetable is reliable.<br/>
++> The timetable is reliable to degree n.<br/>
+b. The timetable is not reliable.<br/>
++> The timetable is reliable to degree less than n.<br/>
+
+(2.82) <br/>
+a. John stopped the car.<br/>
++> John stopped the car in the usual manner.<br/>
+b. John caused the car to stop.<br/>
++> John caused the car in an unusual way, for example, by bumping into a wall.<br/>
