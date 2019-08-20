@@ -44,3 +44,4 @@ by Reinhard Blutner
   * &#12296;**GEN**, **&#8827;**&#12297;: OT-system for form-meaning pairs
   * *f' ><sub>m</sub> f* says that the pair &#12296;*f', *m*&#12297; satisfies the system of (ranked) constraints better than the pair &#12296;*f, m*&#12297;.
   * *m' ><sub>f</sub> m* says that the pair &#12296;*f, *m'*&#12297; satisfies the system of (ranked) constraints better than the pair &#12296;*f, m*&#12297;.
+  * In the strong version of bidirectional OT, a form-interpretation pair &#12296;*f, m*&#12297; &#8712; **GEN** is considered to be (strongly) optimal iff
