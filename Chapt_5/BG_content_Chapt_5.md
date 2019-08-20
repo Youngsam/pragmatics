@@ -1,4 +1,5 @@
 # 대화함축에 대한 배경내용
+from [화용론 by Yan Huang]
 
 ## Introduction
 대화함축(conversational implicature) 개념은 옥스포드 철학자 그라이스(H. P. Grice)로부터 출발한다. 주요 개념들은 1967년 하버드 대학교의 윌리엄 제임스 강연시리즈에서 발표되었고, 그 일부가 모아져 Grice (1989)로 출판되었다. 이 강연에서 그라이스는 의미와 의사소통에 대한 일련의 생각들을 제시했다. 바로 이것이 나중에 그라이스 화용이론으로 알려지게 되었고, 오늘날까지 언어학의 화용론과 언어철학 분야의 초석을 이루고 있다.
@@ -170,7 +171,7 @@ John pressed the spring and the drawer opened.<br/>
 (2.59) 조건절 강화<br/>
   if p then q +> iff. p then q<br/>
   If you give me a free Beethoven, I'll buy five Mozarts.<br/>
-  +> If and only if you give me a free Beethoven will I buy five Moarts.<br/>
+  +> If and only if you give me a free Beethoven will I buy five Mozarts.<br/>
 
 (2.79) M[anner]-원리<br/>
 * 화자:
