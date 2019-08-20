@@ -40,5 +40,6 @@ by Reinhard Blutner
 * 쌍방향 최적성 이론은 언어형식과 언어의미 간의 최적점을 찾는데 있어 일반적 절차를 제공한다.
 * 의미-형식 쌍에 대한 쌍방향 최적성은 (1) 강한 방식과, (2) 약한 방식으로 나누어진다.
 * Formalism of Bidirectional OT
-* Generator: **Gen** &#8838; **F** X **M** gives the set of all potential form-meaning pairs
-&#12296; &#8827;
+  * Generator: **Gen** &#8838; **F** X **M** gives the set of all potential form-meaning pairs
+  * <**GEN**, **&#8827;**>: OT-system for form-meaning paris
+  
