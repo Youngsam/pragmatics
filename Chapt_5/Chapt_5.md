@@ -35,4 +35,10 @@ by Reinhard Blutner
 * 하지만 그라이스의 global view 와는 달리, presumptive meanings는 local하게 구성된다.(예를 들면, 'some'이란 단어는 Q-휴리스틱을 통해 NOT ALL 이란 디폴트 해석을 일으킨다.)
 * 이와 같은 local 화용론적 자질들은 인공지능을 위한 화용론에는 중요한 요소이다.
 * 신-그라이스식의 화용론은 Q-원리와 R-원리를 가정하는데, 이 둘은 서로 상충되면서 상호보완적으로(화용론적 작업분담) 작동한다고 본다.
-&#8827;&#x227B;
+
+### 15.2.2 Bidirectional OT
+* 쌍방향 최적성 이론은 언어형식과 언어의미 간의 최적점을 찾는데 있어 일반적 절차를 제공한다.
+* 의미-형식 쌍에 대한 쌍방향 최적성은 (1) 강한 방식과, (2) 약한 방식으로 나누어진다.
+* Formalism of Bidirectional OT
+* Generator: **Gen** &#8838; **F** X **M** gives the set of all potential form-meaning pairs
+&#12296; &#8827;
