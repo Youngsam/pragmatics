@@ -1,14 +1,14 @@
 # Chapter 5. Formal Pragmatics
 by Reinhard Blutner
 
-## 15.1 Introduction
+## 5.1 Introduction
 * 인문학적 연구주제에 수리논리적 모형을 적용하는 것에 의구심이 있을 수 있으나, 물리학에서도 수학적 이상화와 추상화는 많이 사용된다.
 * 화용론 분야에서 일하는 적합성 이론과 최적성 이론가들은 자연주의적 태도를 취하는데, 이것은 화용론 연구자들의 전통적 태도인 규범적 태도와는 배치되는 것이다.
 * 분명 그라이스의 협력의 원리와 같은 격률들은 규범적 속성을 갖는 것처럼 보인다.
 * 하지만 인간행동에 대한 규범주의적 관점과 자연주의적 관점이 분명하게 다른 설명과 예측을 제공하는 때도 있으나 많은 경우 오히려 일치한다.
 * 이 글에서는 자연주의적 설명을 추구하는 이론적 모형인 '최적성 이론 기반 화용론', '게임 이론 기반 화용론', '결정 이론 기반 화용론'을 다루고자 한다.
 
-## 15.2 Optimality-Theoretic Pragmatics
+## 5.2 Optimality-Theoretic Pragmatics
 * 최적성 이론은 통합적 인지 이론으로, 기호처리 모형의 장점과, 신경망 모형을 이용하는 제약만족(constraint-based) 모형의 장점을 종합하여 취하는 것이 특징이다.(Smolensky and Legendre, 2006)
 * 최적성 이론은 언어학 분야에서 음운론, 형태론, 통사론과 자연어 습득과 그 외 현상적 특징을 성공적으로 설명해왔다.
 * 최적성 이론은 적합성 이론과 유사하게 언어현상에 자연주의적 관점을 취하고 있으며, 다음과 같은 급진적 화용론의 주장을 받아들인다.(Jaszczolt, 2010)
@@ -17,7 +17,7 @@ by Reinhard Blutner
   * There is a level of implicatures proper, understood as separate thoughts implied by the utterance. It is implicit propositional content that can be inferred from the explicit content mentioned in 2. -> 함축을 통해 처리되는 해석의 수준이 존재한다.
 * 위에서 볼 수 있듯이, 최적성 이론도 논리형식이 문자적 의미와 일치된다는 전통적 입장을 거부하고 논리형식은 표현된 의미내용에 따라 명시되고 함축은 어떤 논리형식과 다른 논리형식보다 더 멀거나 가까울 수 있다는 입장을 받아들인다.
 
-### 15.2.1 Three Variations on Grice
+### 5.2.1 Three Variations on Grice
 * 최적성 이론은 그라이스 화용론의 세 가지 변형모형(relevance theory, Levinson's (2000) theory of presumptive meaning, Neo-Gricean approach)을 모두 체계적으로 통합하는 이론이다.
 * 대화함축 접근법의 두 가지 구별
   * Global (neo-Gricean) view: 문장의 일반적 의미를 처음에 파악하고 함축을 통해 적합한 대안을 고려한다.
@@ -43,7 +43,7 @@ by Reinhard Blutner
 * 이와 같은 local 화용론적 자질들은 인공지능을 위한 화용론에는 중요한 요소이다.
 * 신-그라이스식의 화용론은 Q-원리와 R-원리를 가정하는데, 이 둘은 서로 상충되면서 상호보완적으로(화용론적 작업분담) 작동한다고 본다.
 
-### 15.2.2 Bidirectional OT
+### 5.2.2 Bidirectional OT
 * 쌍방향 최적성 이론은 언어형식과 언어의미 간의 최적점을 찾는데 있어 일반적 절차를 제공한다.
 * 의미-형식 쌍에 대한 쌍방향 최적성은 (1) 강한 방식과, (2) 약한 방식으로 나누어진다.
 * Formalism of Bidirectional OT
@@ -80,7 +80,7 @@ by Reinhard Blutner
 * 인간의 일반적 학습 기제가 다른 두 개의 연결제약이 하위에 랭크된다는 것을 배운다면 strong 버전과 weak 버전은 이 측면에서는 동일한 결과를 가져오게 된다.
 * BOT는 자언어의 다양한 화용적 현상을 설명하는데 널리 활용되고 있다.
 
-## 15.3 Game-Theoretic Pragmatics
+## 5.3 Game-Theoretic Pragmatics
 * 게임이론 기반 화용론은 후기 비트겐슈타인을 효시로 해서 Hintikka, Lewis 등에 의해 신호 게임을 언어 도메인에 적용하는 방법에 대한 논의가 이루어졌다.
 * 이 게임은 문화 진화(cultural evolution) 현상의 하나로 표현되며, 신호 게임의 내쉬 평형과 유사하게 안정적 의미의 형성에 대한 수학적 정당화를 제공했다.
 * 게임이론 기반 화용론은 크게 전략게임에 기반한 접근법과 신호 게임에 기반한 접근법이 있었다.
@@ -108,4 +108,4 @@ by Reinhard Blutner
 * 비용 함수를 통한 접근법을 이론적으로 뒷받침하는 시도는 진화적 복잡계 모형(replicator dynamics)을 통해 이를 모델링하는 시도가 있었고, 특정 조건 하에서 super-optimal solution 쌍의 내쉬평형은 안정적이라는 연구가 있었다.(Maynard-Smith, 1982)
 * 그 외에도 iterative learning theory, reinforcement learning for signaling games, iterated best response model 등을 통해 위의 접근법을 설명하려는 이론적 시도들이 있었다.
 
-## 15.4 Decision-Theoretic Pragmatics
+## 5.4 Decision-Theoretic Pragmatics
