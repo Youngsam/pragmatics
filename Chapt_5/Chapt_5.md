@@ -42,6 +42,11 @@ by Reinhard Blutner
 * Formalism of Bidirectional OT
   * Generator: **Gen** &#8838; **F** X **M** gives the set of all potential form-meaning pairs
   * &#12296;**GEN**, **&#8827;**&#12297;: OT-system for form-meaning pairs
-  * *f' ><sub>m</sub> f* says that the pair &#12296;*f', *m*&#12297; satisfies the system of (ranked) constraints better than the pair &#12296;*f, m*&#12297;.
-  * *m' ><sub>f</sub> m* says that the pair &#12296;*f, *m'*&#12297; satisfies the system of (ranked) constraints better than the pair &#12296;*f, m*&#12297;.
-  * In the strong version of bidirectional OT, a form-interpretation pair &#12296;*f, m*&#12297; &#8712; **GEN** is considered to be (strongly) optimal iff
+  * *f' &#8827;<sub>m</sub> f* says that the pair &#12296;*f'*, *m*&#12297; satisfies the system of (ranked) constraints better than the pair &#12296;*f, m*&#12297;.
+  * *m' &#8827;<sub>f</sub> m* says that the pair &#12296;*f*, *m'*&#12297; satisfies the system of (ranked) constraints better than the pair &#12296;*f, m*&#12297;.
+* In the strong version of bidirectional OT, a form-interpretation pair &#12296;*f, m* &#12297;&#8712; **GEN** is considered to be (strongly) optimal iff
+  * Interpretive Optimization: there is no pair &#12296;*f, m'* &#12297;&#8712; **GEN** such that *m' &#8827;<sub>f</sub> m*.
+  * Expressive Optimization: there is no pair &#12296;*f', m* &#12297;&#8712; **GEN** such that *f' &#8827;<sub>m</sub> f*.
+* A form-interpretation pair  &#12296;*f, m* &#12297; &#8712; **GEN** is considered to be super-optimal (or weakly optimal) iff
+  * Interpretive Optimization: there is no super-optimal pair &#12296;*f, m'* &#12297;&#8712; **GEN** such that *m' &#8827;<sub>f</sub> m*.
+  * Expressive Optimization: there is no super-optimal pair &#12296;*f', m* &#12297;&#8712; **GEN** such that *f' &#8827;<sub>m</sub> f*.
