@@ -105,7 +105,43 @@ by Reinhard Blutner
 <p align="center"> <img src="http://latex.codecogs.com/gif.latex?%5Cleft%5Clangle%20m_1%2C%20f_1%20%5Cright%5Crangle%20%5Csucc%20%5Cleft%5Clangle%20m_2%2C%20f_2%20%5Cright%5Crangle%20%5Ctext%7Biff%20%7D%20c%28m_1%2C%20f_1%29%20%3C%20c%28m_2%2C%20f_2%29%5Cquad%5Cquad%20%283%29"> </p>
 
 * 수식 (3)을 이용해 신호 게임에서 참가자들은 비용 함수의 값을 최대화하는 전략을 찾아나갈 수 있다.
-* 비용 함수를 통한 접근법을 이론적으로 뒷받침하는 시도는 진화적 복잡계 모형(replicator dynamics)을 통해 이를 모델링하는 시도가 있었고, 특정 조건 하에서 super-optimal solution 쌍의 내쉬평형은 안정적이라는 연구가 있었다.(Maynard-Smith, 1982)
+* 비용 함수를 통한 접근법을 이론적으로 뒷받침하는 시도는 진화 복잡계 모형(replicator dynamics)을 통해 이를 모델링하는 시도가 있었고, 특정 조건 하에서 super-optimal solution 쌍의 내쉬평형은 안정적이라는 연구가 있었다.(Maynard-Smith, 1982)
 * 그 외에도 iterative learning theory, reinforcement learning for signaling games, iterated best response model 등을 통해 위의 접근법을 설명하려는 이론적 시도들이 있었다.
 
 ## 5.4 Decision-Theoretic Pragmatics
+* 예제 (4)
+  a. Should we buy this ring?
+  b. It is nice but expensive.
+  c. It is expensive but nice.
+* 예제 (4b)와 (4c)의 진리조건은 같지만, 문맥 a를 놓고 보았을 때 둘은 전혀 다른 함축을 내포한다.
+* Merin (1999)은 decision theory와 확률개념에 기초하여 화용의미론의 논증이론을 형식화했다.
+* 그에 따르면, 논증이란 인식적 상태 간의 확률적 관계이다.
+* 논증 A는 가설 H의 확률을 증진시킬때만 오직 가설 H에 대한 긍정적 논증이 된다.
+* 이런 논증 관계를 'relation of relevance'라고 부르며 수식 (5)와 같이 표현한다.
+<p align="center"> <img src="http://latex.codecogs.com/gif.latex?r_H%28A%29%3D%5Clog%20P%28A%7CH%29-%5Clog%20P%28A%7C%5Cneg%20H%29%20%5Cquad%5Cquad%20%285%29"> </p>
+
+* 긍정적 relevance는 r<sub>H</sub>(A)가 0 이상일 때 그리고 0 이하일 때는 부정적 relevance가 된다.
+* 수식(5)의 단순한 귀결:
+<p align="center"> <img src="http://latex.codecogs.com/gif.latex?r_H%28A%29%20%3E%200%20%5Ctext%7B%20iff%20%7D%20P%28H%7CA%29%20%3E%20P%28H%29%20%5Ctext%7B%20and%20%7Dr_H%28A%29%20%3C%200%20%5Ctext%7B%20iff%20%7D%20P%28H%7CA%29%20%3C%20P%28H%29"> </p>
+
+* 예제 (6)
+  a. John is tall but Sue is short. (contrast use)
+  b. John is a Republican but he is honest. (denial of expectation use)
+* (6a)와 (6b)의 차이는 'but'을 'and'와 교체하였을 때 분명해진다. (6a)의 의미는 변화가 없지만 (6b)의 의미는 "공화당 사람은 정직하지 않다"에서 "정직한 사람은 보통 공화당이 아니다"가 된다.
+* 예제 (7): 논증이론을 적용한 경우
+  For an utterance of the form **p but q**, there must be an H such that:
+  a. r<sub>H</sub>(p)>0 and r<sub>H</sub>(q)<0 (or equivalently r<sub>~H</sub>(q)>0)
+  b. r<sub>~H</sub>(q) > r<sub>H</sub>(p)
+* 하지만 논증이론의 설명은 예제 (6b)는 잘 설명하지만 (6a)는 조금 불분명하다는 문제가 있다.
+* 또한 Merin의 논증이론에서 취하는 관점이 대화 참가자들은 서로 협력적 관계까 아니라 경쟁적 관계를 가정한다는 점이 지적된다.
+* Ithen (2000)은 최근의 적합성 이론의 내용과 논증이론의 내용이 매우 유사하며, 논증이론은 그라이스 프레임워크와 배치되지 않을 수 있다고 주장한다.
+* 그 외에도 그는 논증이론이 가정하는 몇 가지 가정들을 비판한다.
+  * 논증이론은 인지적 관점이 아니라 규범주의적 관점을 취한다.
+  * 발화의미의 진리조건적 측면을 무시한다. 이것은 그라이스의 '말해진 것'을 고려하지 않는 것이다.
+  * 논증이론에선 의미론과 화용론의 구별이 명확하지 않다.
+  * 논증이론의 설명에 대한 많은 반례들이 존재한다.
+
+# 5.5 Conclusion
+* 최적성 이론 기반 화용론과 게임이론 기반 화용론의 비교를 통해, 최적성 기반 모형이 진화 개임이론의 모형과 잘 융합될 수 있을 것이라는 점을 보였다.
+* 더불어 게임이론 기반 설명이 화용론 특유의 규범적 설명을 탈피하고 인지주의적 관점을 유지할 수 있따고 주장했다.
+* 마지막으로 decision-theoretic 기반 혹은 논증이론에 기반 화용이론을 비판적으로 다루었다.
