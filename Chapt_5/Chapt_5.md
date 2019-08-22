@@ -109,10 +109,10 @@ by Reinhard Blutner
 * 그 외에도 iterative learning theory, reinforcement learning for signaling games, iterated best response model 등을 통해 위의 접근법을 설명하려는 이론적 시도들이 있었다.
 
 ## 5.4 Decision-Theoretic Pragmatics
-* 예제 (4)
-  a. Should we buy this ring?
-  b. It is nice but expensive.
-  c. It is expensive but nice.
+* 예제 (4)<br/>
+  a. Should we buy this ring?<br/>
+  b. It is nice but expensive.<br/>
+  c. It is expensive but nice.<br/>
 * 예제 (4b)와 (4c)의 진리조건은 같지만, 문맥 a를 놓고 보았을 때 둘은 전혀 다른 함축을 내포한다.
 * Merin (1999)은 decision theory와 확률개념에 기초하여 화용의미론의 논증이론을 형식화했다.
 * 그에 따르면, 논증이란 인식적 상태 간의 확률적 관계이다.
