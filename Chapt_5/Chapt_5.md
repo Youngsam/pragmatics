@@ -124,14 +124,14 @@ by Reinhard Blutner
 * 수식(5)의 단순한 귀결:
 <p align="center"> <img src="http://latex.codecogs.com/gif.latex?r_H%28A%29%20%3E%200%20%5Ctext%7B%20iff%20%7D%20P%28H%7CA%29%20%3E%20P%28H%29%20%5Ctext%7B%20and%20%7Dr_H%28A%29%20%3C%200%20%5Ctext%7B%20iff%20%7D%20P%28H%7CA%29%20%3C%20P%28H%29"> </p>
 
-* 예제 (6)
-  a. John is tall but Sue is short. (contrast use)
-  b. John is a Republican but he is honest. (denial of expectation use)
+* 예제 (6)<br/>
+  a. John is tall but Sue is short. (contrast use)<br/>
+  b. John is a Republican but he is honest. (denial of expectation use)<br/>
 * (6a)와 (6b)의 차이는 'but'을 'and'와 교체하였을 때 분명해진다. (6a)의 의미는 변화가 없지만 (6b)의 의미는 "공화당 사람은 정직하지 않다"에서 "정직한 사람은 보통 공화당이 아니다"가 된다.
 * 예제 (7): 논증이론을 적용한 경우
-  For an utterance of the form **p but q**, there must be an H such that:
-  a. r<sub>H</sub>(p)>0 and r<sub>H</sub>(q)<0 (or equivalently r<sub>~H</sub>(q)>0)
-  b. r<sub>~H</sub>(q) > r<sub>H</sub>(p)
+  For an utterance of the form **p but q**, there must be an H such that:<br/>
+  a. r<sub>H</sub>(p)>0 and r<sub>H</sub>(q)<0 (or equivalently r<sub>~H</sub>(q)>0)<br/>
+  b. r<sub>~H</sub>(q) > r<sub>H</sub>(p)<br/>
 * 하지만 논증이론의 설명은 예제 (6b)는 잘 설명하지만 (6a)는 조금 불분명하다는 문제가 있다.
 * 또한 Merin의 논증이론에서 취하는 관점이 대화 참가자들은 서로 협력적 관계까 아니라 경쟁적 관계를 가정한다는 점이 지적된다.
 * Ithen (2000)은 최근의 적합성 이론의 내용과 논증이론의 내용이 매우 유사하며, 논증이론은 그라이스 프레임워크와 배치되지 않을 수 있다고 주장한다.
