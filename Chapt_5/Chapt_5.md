@@ -71,7 +71,7 @@ by Reinhard Blutner
 * 하지만 Horn의 화용론적 작업분담 원리는 이를 예측하는 반면, BOT의 strong 버전은 <cause to die, indir> 형식-의미 쌍이 선호되는 경우가 발생한다는 것을 설명하지 못한다.
 * Table 2b는 BOT의 weak 버전이 적용되는 경우에 그런 문제가 발생하지 않는다는 점을 보여주는데, 왜냐하면 <kill, indir>과 <cause to die, dir> 쌍이 super-optimal 하지 않기 때문에 <cause to die, indir> 쌍이 super-optimal 쌍이 되지 못하게 차단하지 못하기 때문이다.
 * 이런 weak BOT는 인간의 언어인지 진화 과정에서 '화석화'된 과정으로 보인다.
-* 이와 같은 '화성화' 결과를 linking-constraints 형태로 표현할 수 있다.(Table 2)
+* 이와 같은 '화석화' 결과를 linking-constraints 형태로 표현할 수 있다.(Table 2)
 
 ![](table_2.PNG)
 
@@ -94,18 +94,18 @@ by Reinhard Blutner
 * Franke (2009)는 OT 시스템이 이 접근법에 잘 적용될 수 있음을 주장했다. 그리고 사전 연구들에서 신호 게임 접근법을 통해 이와 같은 방법들이 논의되었다.
 * 신호 게임의 기본적인 아이디어는 간단하다. 게임 참가자가 청자와 화자 두 명이 있다면, 먼저 무작위로 선택된 의미 *m* 이 화자에게 제시된다. 다음에 화자는 신호 *f* 를 골라 청자에게 전달한다.
 * 그 신호에 기반해서 청자는 *f* 의 의미를 추측해야 한다. 만일 그 예측이 정확하다면, 화자와 청자 모두 점수를 얻는다. 만일 부정확하다면 아무런 점수도 얻지 못한다.
-* 이런 프레임워크를 바탕으로 화자와 청자에 대한 비용 함수를 아래와 같이 표현할 수 있다.
+* 이런 프레임워크를 바탕으로 화자와 청자에 대한 효용 함수를 아래와 같이 표현할 수 있다.
 
 <p align="center"> <img src="http://latex.codecogs.com/gif.latex?u%28S%2CH%29%3D%5Csum_m%20P%28m%29%5Ctext%7Bsim%7D%28m%2CH%28S%28m%29%29%29%20%5Cquad%5Cquad%20%282%29"> </p>
 
 * 수식 (2)에서 P(m)은 두 참가자에 공유된 사전 확률을 나타내며, sim(m, m')은 0에서 1까지의 값을 리턴하는 유사도 함수를, S(m)은 화자의 전략을 의미 *m* 에 적용한다는 것을 가리킨다. 그리고 H(f)은 청자의 전략은 형식 *f* 에 적용한다는 것을 뜻한다.
-* 유사도 함수 sim은 따라서 화자와 청자가 같은 의미를 사용된 형식에 대해 공유한다면 유사도 1을 주게 된다. 즉, 서로 의도한 바를 잘 소통하게 되면 비용 함수의 값은 상승한다.
+* 유사도 함수 sim은 따라서 화자와 청자가 같은 의미를 사용된 형식에 대해 공유한다면 유사도 1을 주게 된다. 즉, 서로 의도한 바를 잘 소통하게 되면 효용 함수의 값은 상승한다.
 * 여기에 비용함수를 적용하는 것은 그리 어려운 일이 아니며 OT 패러다임에 따라 수식 (3)과 같은 방법을 적용할 수 있다.
 
 <p align="center"> <img src="http://latex.codecogs.com/gif.latex?%5Cleft%5Clangle%20m_1%2C%20f_1%20%5Cright%5Crangle%20%5Csucc%20%5Cleft%5Clangle%20m_2%2C%20f_2%20%5Cright%5Crangle%20%5Ctext%7Biff%20%7D%20c%28m_1%2C%20f_1%29%20%3C%20c%28m_2%2C%20f_2%29%5Cquad%5Cquad%20%283%29"> </p>
 
-* 수식 (3)을 이용해 신호 게임에서 참가자들은 비용 함수의 값을 최대화하는 전략을 찾아나갈 수 있다.
-* 비용 함수를 통한 접근법을 이론적으로 뒷받침하는 시도는 진화 복잡계 모형(replicator dynamics)을 통해 이를 모델링하는 시도가 있었고, 특정 조건 하에서 super-optimal solution 쌍의 내쉬평형은 안정적이라는 연구가 있었다.(Maynard-Smith, 1982)
+* 수식 (3)을 이용해 신호 게임에서 참가자들은 효용 함수의 값을 최대화하는 전략을 찾아나갈 수 있다.
+* 효용 함수를 통한 접근법을 이론적으로 뒷받침하는 시도는 진화 복잡계 모형(replicator dynamics)을 통해 이를 모델링하는 시도가 있었고, 특정 조건 하에서 super-optimal solution 쌍의 내쉬평형은 안정적이라는 연구가 있었다.(Maynard-Smith, 1982)
 * 그 외에도 iterative learning theory, reinforcement learning for signaling games, iterated best response model 등을 통해 위의 접근법을 설명하려는 이론적 시도들이 있었다.
 
 ## 5.4 Decision-Theoretic Pragmatics
